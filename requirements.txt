@@ -1,0 +1,11 @@
+# requirements.txt
+cryptography
+argon2-cffi
+secrets
+zxcvbn
+face_recognition
+opencv-python
+requests
+pyotp
+qrcode
+Pillow
